@@ -1,5 +1,7 @@
 # Export-Filter-Editor
 
+![](ExportFilterEditor.gif)
+
 
 What's new
 ====================
