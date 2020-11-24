@@ -19,15 +19,15 @@ Version 0.4 (beta)
 This editor is free software under Conditions of  GNU General Public License.
 Compiled using: Lazarus 1.6 & Richmemo 1.0
 
-Developer: Felix Wilke (felixw83@gmail.com)
-developed with: Lazarus
-icon based on: http://commons.wikimedia.org/wiki/File:JabRef_Icon.svg
+- Developer: Felix Wilke (felixw83@gmail.com)
+- developed with: Lazarus
+- icon based on: http://commons.wikimedia.org/wiki/File:JabRef_Icon.svg
 
 How to Use
 =======
--Fill the table according to your wishes.
--Save as HTML,RTF, JSTYLE File or as FDAT for later usage
--Use filter in Jabref:
+- Fill the table according to your wishes.
+- Save as HTML,RTF, JSTYLE File or as FDAT for later usage
+- Use filter in Jabref:
   For RTF and HTML: Options->manage custom exports
   For JSTYLE: Tools-> OpenOffice connection->Select Style
 
@@ -58,4 +58,4 @@ You can load a specific language file for the editor.
 Put translation.ini file into the Folder of the application
 Currently there is an uncompleted German translation file
 Feel free to create and distribute other translations.
-Source: README.txt, updated 2016-05-08 
+Source: README.txt, updated 2020-11-24 
