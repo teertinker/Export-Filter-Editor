@@ -42,8 +42,8 @@ The Export-Filter-Editor does not support the Author format needed.
   - This editor tries to cover the most common features.
   - For more options have a look at the JabRef documentation.
     and modify your Export-Filter afterwards with an external editor.
-      see: http://help.jabref.org/en/CustomExports
-      and: http://help.jabref.org/en/OpenOfficeIntegration
+      see: https://docs.jabref.org/collaborative-work/export/customexports
+      and: https://docs.jabref.org/cite/openofficeintegration
 
 I experience some coding issues, some characters are not encoded correctly.
   - This program uses UTF-8 encoding
